@@ -1,0 +1,40 @@
+.content {top: 0;
+background: rgba(0, 0, 0, 0.5);
+color: #f1f1f1;
+width: 100%;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+ 
+    
+    #myvideo {
+        position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000;}
+
+   
+    
+    .cleiton {
+        color:white
+        
+    }
+    strong{color: rgb(255, 255, 255);}
+    
+    .matheus {top: 0;
+        background: rgba(153, 153, 153, 0.5);
+        color: #000000;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;}
+    .informção{ top: 0;
+        background: rgba(134, 47, 47, 0.5);
+        color: #000000;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+    }
